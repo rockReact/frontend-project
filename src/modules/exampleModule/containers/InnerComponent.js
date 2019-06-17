@@ -65,6 +65,7 @@ class InnerComponent extends Component {
           <div style={{opacity: isFetching ? 0.5 : 1}}>
             <Posts posts={posts} />
           </div>}
+          <div>{process.env.REACT_APP_SECRET_CODE}</div>
       </div>
     );
   }
