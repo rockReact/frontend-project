@@ -31,7 +31,7 @@
     "babel-plugin-relay": "^2.0.0-rc.2",
     "flow-bin": "^0.99.1",
     "lodash": "^4.17.11",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "normalize.css": "^8.0.1",
     "react": "^16.8.6",
     "react-cookie": "^4.0.0",
